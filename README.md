@@ -1,6 +1,9 @@
 # LSTM-Forex
+This GitHub repository hosts a codebase that enables the efficient generation of over 150 technical indicators and statistical properties using modules such as pandas_ta and talib. These indicators and properties are utilized to feed an LSTM-GRU architecture capable of predicting the behavior of the EURUSD currency pair in the forex market, utilizing multiple time frames.
 
-This project provides tools for data management, financial data processing, visualization, and machine learning. It includes statistical calculations, financial data download, technical indicators, autocorrelations, and LSTM models to predict prices.
+A notable feature of this project is its ability to automatically download the necessary data for model training. Additionally, the code takes care of evolving the hyperparameter network of the architecture and fine-tuning a base architecture to subsequently train an optimized model based on that architecture.
+
+This repository provides a comprehensive solution for developing prediction models in the forex market, leveraging a wide variety of technical indicators and employing advanced machine learning techniques. The automated approach and model architecture optimization contribute to enhancing prediction accuracy, offering a valuable resource for individuals interested in the analysis and forecasting of EURUSD currency pair movements.
 
 1. Obtaining the current date and setting the start and end date of the data to be used.
 2. Creating a destination folder to store the data files.
