@@ -2,8 +2,14 @@
 
 This project provides tools for data management, financial data processing, visualization, and machine learning. It includes statistical calculations, financial data download, technical indicators, autocorrelations, and LSTM models to predict prices.
 
-
-
+1. Obtaining the current date and setting the start and end date of the data to be used.
+2. Creating a destination folder to store the data files.
+3. Downloading data sets for the specified financial instrument pairs.
+4. Reading of the downloaded data files and creation of a single DataFrame concatenating all DataFrames.
+5. Calculation of technical indicators and market characteristics, such as momentum, trends, volatility, volume, among others.
+6. Preparation of data for modeling in Keras, including normalization and division into training, validation and test sets.
+7. Creation of a model in Keras to predict the closing prices using the processed data.
+8. Training of the model using the training data and evaluation of performance using the validation and test sets.
 
 
 ## Creating a Virtual Environment
