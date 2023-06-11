@@ -12,16 +12,6 @@ This will create a new virtual environment named "myenv" in the current director
 
 Activate the virtual environment. The activation process may vary depending on the operating system and the tool used. For virtualenv, you can use the following commands:
 
-Esta es una fórmula en línea: `$E = mc^2$`.
-
-Y esta es una fórmula en un bloque:
-
-```latex
-$$
-\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-$$
-
-
 
 On Windows:
 
