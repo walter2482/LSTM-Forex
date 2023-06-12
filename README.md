@@ -41,24 +41,3 @@ pip install -r requirements.txt
 
 This will install all the dependencies specified in the "requirements.txt" file into your virtual environment.
 
-## GitHub Repository Structure
-
-To structure the publication on GitHub, you can follow these steps:
-
-1. Create a new repository on GitHub by clicking on the "New" button on the repository page.
-
-2. Give your repository a name and provide an optional description.
-
-3. Choose the visibility of your repository (public or private).
-
-4. Optionally, you can initialize the repository with a README file. You can choose to create the README file now or add it later.
-
-5. Once the repository is created, you can go to the repository's main page.
-
-6. Click on the "Add file" button and select "Upload files" to upload your project files, including the "requirements.txt" file.
-
-7. After uploading the files, you can provide a commit message and click on the "Commit changes" button to save the files to your repository.
-
-8. Now, other users can access your repository, view the code, and download the "requirements.txt" file if needed.
-
-Remember to include any additional documentation or instructions in your repository's README file to guide users on how to set up the environment and use your project.
