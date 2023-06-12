@@ -42,4 +42,7 @@ pip install -r requirements.txt
 
 This will install all the dependencies specified in the "requirements.txt" file into your virtual environment.
 
-5. Finally in your environment do python3 installation.py
+5. Finally in your environment do:
+  ```
+  python3 installation.py
+  ```
