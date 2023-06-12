@@ -27,6 +27,7 @@ virtualenv myenv
 This will create a new virtual environment named "myenv" in the current directory.
 
 3. Activate the virtual environment. The activation process may vary depending on the operating system and the tool used. For virtualenv, you can use the following commands:
+
 - On Windows:
   ```
   myenv\Scripts\activate
@@ -41,3 +42,4 @@ pip install -r requirements.txt
 
 This will install all the dependencies specified in the "requirements.txt" file into your virtual environment.
 
+5. Finally in your environment do python3 installation.py
