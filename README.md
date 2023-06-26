@@ -46,3 +46,7 @@ This will install all the dependencies specified in the "requirements.txt" file 
   ```
   python3 installation.py
   ```
+6. You need install
+  ```
+  npm install dukascopy-node --save
+  ```
